@@ -1,0 +1,14 @@
+
+
+.... archivos no trakeados...
+index.html
+
+
+
+.....stage Area....(memoria)
+... git add nombre archivo
+
+
+
+...repositorio local...
+inde.hmtl
