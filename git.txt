@@ -2,13 +2,24 @@
 
 .... archivos no trakeados...
 index.html
+otrso archivos
 
 
 
 .....stage Area....(memoria)
-... git add nombre archivo
+
 
 
 
 ...repositorio local...
-inde.hmtl
+index.hmtl
+otros archivos
+
+
+1) verificar carpeta de proyecto
+2) me meto a la carpeta
+3) git init
+4) configurar usuario
+5) configurar mail
+6) pasar los archivos al stagging area => git add . ------ git add nombre_archivos
+7) git commit -m " pequeña reseña " 
