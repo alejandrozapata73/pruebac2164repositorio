@@ -1,0 +1,5 @@
+Terminales...
+
+windows...: terminal power shell
+linux.....: terminal Bash shell
+mac......: terminal z shell

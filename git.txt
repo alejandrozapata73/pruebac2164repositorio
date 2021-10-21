@@ -23,3 +23,7 @@ otros archivos
 5) configurar mail
 6) pasar los archivos al stagging area => git add . ------ git add nombre_archivos
 7) git commit -m " pequeña reseña " 
+
+
+
+ahora si puedo quemar la compu
